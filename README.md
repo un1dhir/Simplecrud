@@ -24,14 +24,6 @@ Run migrations: python manage.py migrate
 
 Start the server: python manage.py runserver
 
-🔗 Live Demo: [Add Link if Deployed]
+🔗 Live Demo: NULL
 
-Optional Additions (if applicable)
-User Authentication (Login/Register)
-
-Search & Filtering
-
-Pagination for large datasets
-
-This keeps it concise while highlighting key details. Let me know if you'd like to customize it further! 🚀
 
